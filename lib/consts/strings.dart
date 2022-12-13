@@ -10,6 +10,7 @@ const nameHint = "Sohaib Janjua";
 const passwordHint = "******";
 const forgetPass = "Forget Password";
 const login = "Log in";
+const logout = "Log Out";
 const signup = "Sign up";
 const createNewAccount = "or, create a new account?";
 const loginWith = "Log in with";
@@ -57,3 +58,6 @@ const video = "Video",
     returnPolicy = "Return Policy",
     supportPolicy = "Support Policy",
     productsYouMayLike = "Products you may also like";
+
+//profile strings
+const wishlist = "My Wishlist", orders = "My Orders", message = "Messages";
